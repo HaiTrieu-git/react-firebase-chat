@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "chat-starter": "file:",
+    "emoji-dictionary": "^1.0.11",
+    "emoji-picker-react": "^4.11.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-virtualized": "^9.22.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
